@@ -275,7 +275,7 @@ class AstraDB:
         )
 
         responsebody = response.json()
-        print(responsebody)
+        
         if "errors" in responsebody:
             print (json.dumps(responsebody["errors"]))
             raise ValueError(json.dumps(responsebody["errors"]))
