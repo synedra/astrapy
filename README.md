@@ -104,3 +104,7 @@ Take a look at the [vector tests](https://github.com/datastax/astrapy/blob/maste
 #### Using the Ops Client
 
 You can use the Ops client to work the with Astra DevOps API. Check the [devops tests](https://github.com/datastax/astrapy/blob/master/tests/astrapy/test_devops.py)
+
+#### Check postman for more examples
+
+You can work with our postman collections for [vector search](https://www.postman.com/datastax/workspace/stargate-cassandra/collection/25879866-51ff01b2-f155-4a2b-b996-f62e956cb745?tab=overview) and [non-vector search](https://www.postman.com/datastax/workspace/stargate-cassandra/collection/25879866-266032b1-1fe9-4abd-aee9-e6e4b335f921?tab=overview) examples
