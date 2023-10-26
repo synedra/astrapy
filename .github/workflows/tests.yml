@@ -15,8 +15,8 @@
 name: Tests
 on:
   push:
-	branches:
-		- test-travis
+    branches:
+      - test-travis
 jobs:
   tests:
     runs-on: ubuntu-latest
